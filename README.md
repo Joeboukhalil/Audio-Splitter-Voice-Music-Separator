@@ -31,9 +31,9 @@ This project includes two main functionalities: recording audio from a microphon
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/Joeboukhalil/Audio-Splitter-Voice-Music-Separator.git
 cd audio-separator
+
 
 2. Install dependencies for voice separation (Python 3.13+):
 
